@@ -1,0 +1,5 @@
+{
+  "name": "DRM Categorizer",
+  "description": "AI-powered news classification SaaS. Automatically categorize articles, generate confidence scores, and apply smart tags using Gemini 2.5.",
+  "requestFramePermissions": []
+}
